@@ -1,4 +1,4 @@
-# wrangler.toml
+# wrangler.toml 
 name = 'notes2676'
 main = "worker.js"
 compatibility_date = "2025-11-04"
